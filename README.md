@@ -17,15 +17,15 @@ View source to see the markdown used
 
 | Example | Kind |
 | ----- | ---- |
-| ![Zig support](https://img.shields.io/badge/Zig-0.14.1-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports a single fixed version |
-| ![Zig support](https://img.shields.io/badge/Zig-master-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports the latest under development version (i.e., the future versions) |
-| ![Zig support](https://img.shields.io/badge/Zig-0.14.1%20%7C%200.15.0%20%7C%20master-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports multiple fixed versions |
-| ![Zig support](https://img.shields.io/badge/Zig-0.14.x-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports all within the patch range |
-| ![Zig support](https://img.shields.io/badge/Zig-0.x.x-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports all within the minor range |
-| ![Zig support](https://img.shields.io/badge/Zig-%E2%89%A50.14.0-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports a minimum version |
-| ![Zig support](https://img.shields.io/badge/Zig-%E2%89%A50.14.0%20%E2%89%A40.15.1-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports a minimum to maximum range |
-| ![Zig support](https://img.shields.io/badge/Zig-no_guarantees-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Experimental, no guarantees to support any version |
-| ![Zig support](https://img.shields.io/badge/Zig-all-color?logo=zig&color=%23f3ab20&link=https%3A%2F%2Fgithub.com%2FKurtWagner%2Fwhat-the-zig) | Supports every version, [tell them you're dreamin'](https://www.youtube.com/watch?v=jL2DH-nKBeA) |
+| [![Zig support](https://img.shields.io/badge/Zig-0.14.1-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig) | Supports a single fixed version |
+| [![Zig support](https://img.shields.io/badge/Zig-master-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports the latest under development version (i.e., the future versions) |
+| [![Zig support](https://img.shields.io/badge/Zig-0.14.1%20%7C%200.15.0%20%7C%20master-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports multiple fixed versions |
+| [![Zig support](https://img.shields.io/badge/Zig-0.14.x-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports all within the patch range |
+| [![Zig support](https://img.shields.io/badge/Zig-0.x.x-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports all within the minor range |
+| [![Zig support](https://img.shields.io/badge/Zig-%E2%89%A50.14.0-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports a minimum version |
+| [![Zig support](https://img.shields.io/badge/Zig-%E2%89%A50.14.0%20%E2%89%A40.15.1-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports a minimum to maximum range |
+| [![Zig support](https://img.shields.io/badge/Zig-no_guarantees-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Experimental, no guarantees to support any version |
+| [![Zig support](https://img.shields.io/badge/Zig-all-color?logo=zig&color=%23f3ab20)](http://github.com/kurtwagner/what-the-zig)  | Supports every version, [tell them you're dreamin'](https://www.youtube.com/watch?v=jL2DH-nKBeA) |
 
 
 ## Acknowledgments
